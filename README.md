@@ -121,6 +121,11 @@ If we can provide counterfactuals that improve PWD’s postprandial BG character
 
 [Andrew Yang](https://www.linkedin.com/in/andrewatyang/) is Big Mac on Discord.
 
+
+#### Jonathan Gong
+
+[Jonathan Gong](https://www.linkedin.com/in/jonathan-gong-005491263/) is a computer science undergraduate at the University of Waterloo. He has a passion for AI solutions in healthcare. Check out his projects on [GitHub](https://github.com/jogong2718).
+
 #### TBD [...]
 
 ### Stakeholder Members:
