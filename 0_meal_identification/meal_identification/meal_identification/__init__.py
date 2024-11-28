@@ -1,1 +1,1 @@
-from meal_identification import config  # noqa: F401
+from . import config
